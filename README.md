@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+<img width="1536" height="1024" alt="BCO 5152e788-3fe8-4f86-8fd0-778a1ef71140" src="https://github.com/user-attachments/assets/7a470cf5-2e22-4fe5-a4a1-a0cc84c09233" />
 
 
 ## RESULT:
